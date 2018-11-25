@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Add Card Case Assigned</name>
+    <style>none</style>
+    <subject>You Have Been Assigned a Case</subject>
+    <textOnly>Hello,
+
+An Add Card case has been assigned to the Card/Sales Team.
+
+Please log into Salesforce at this link to access the record:
+
+https://cs50.salesforce.com/ui/support/servicedesk/ServiceDeskPage#/{!Case.Id}</textOnly>
+    <type>custom</type>
+</EmailTemplate>
