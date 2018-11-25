@@ -1,9 +1,0 @@
-Hello,
-<br><br>
-Your request to add {!Case.Card_Service__c} card services to your Merchant account has been approved.  Ticket {!Case.CaseNumber} has now been closed.
-<br><br>
-If you have any questions regarding this, please feel free to access Merchant Portal for more information or contact Global Payments Merchant Services directly.
-<br><br>
-We thank you for your business, and look forward to serving you in the future.
-<br><br>
-Global Payments Merchant Services

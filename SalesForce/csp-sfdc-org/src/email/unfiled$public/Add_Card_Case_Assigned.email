@@ -1,7 +1,0 @@
-Hello,
-<br><br>
-An Add Card case has been assigned to the Card/Sales Team.
-<br><br>
-Please log into Salesforce at this link to access the record:
-<br><br>
-https://cs50.salesforce.com/ui/support/servicedesk/ServiceDeskPage#/{!Case.Id}
